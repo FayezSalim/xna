@@ -1,0 +1,1172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>shuttle.png</Source>
+      <Name>shuttle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\shuttle.xnb</Output>
+      <Time>2012-05-23T18:22:28.896729+05:30</Time>
+    </Item>
+    <Item>
+      <Source>stars.jpg</Source>
+      <Name>stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\stars.xnb</Output>
+      <Time>2012-05-23T18:22:28.8987291+05:30</Time>
+    </Item>
+    <Item>
+      <Source>circle.png</Source>
+      <Name>circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\circle.xnb</Output>
+      <Time>2012-05-24T10:08:37.1517531+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture0.PNG</Source>
+      <Name>earth\Capture0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture0.xnb</Output>
+      <Time>2012-05-23T23:26:03.2373275+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture1.PNG</Source>
+      <Name>earth\Capture1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture1.xnb</Output>
+      <Time>2012-05-23T23:26:03.2403276+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture10.PNG</Source>
+      <Name>earth\Capture10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture10.xnb</Output>
+      <Time>2012-05-23T23:26:03.2653291+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture100.PNG</Source>
+      <Name>earth\Capture100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture100.xnb</Output>
+      <Time>2012-05-23T23:26:04.1643805+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture101.PNG</Source>
+      <Name>earth\Capture101</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture101.xnb</Output>
+      <Time>2012-05-23T23:26:04.1743811+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture102.PNG</Source>
+      <Name>earth\Capture102</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture102.xnb</Output>
+      <Time>2012-05-23T23:26:04.1823815+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture103.PNG</Source>
+      <Name>earth\Capture103</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture103.xnb</Output>
+      <Time>2012-05-23T23:26:04.190382+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture104.PNG</Source>
+      <Name>earth\Capture104</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture104.xnb</Output>
+      <Time>2012-05-23T23:26:04.1993825+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture105.PNG</Source>
+      <Name>earth\Capture105</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture105.xnb</Output>
+      <Time>2012-05-23T23:26:04.2073829+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture106.PNG</Source>
+      <Name>earth\Capture106</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture106.xnb</Output>
+      <Time>2012-05-23T23:26:04.2153834+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture107.PNG</Source>
+      <Name>earth\Capture107</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture107.xnb</Output>
+      <Time>2012-05-23T23:26:04.2223838+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture108.PNG</Source>
+      <Name>earth\Capture108</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture108.xnb</Output>
+      <Time>2012-05-23T23:26:04.2333844+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture109.PNG</Source>
+      <Name>earth\Capture109</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture109.xnb</Output>
+      <Time>2012-05-23T23:26:04.2423849+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture11.PNG</Source>
+      <Name>earth\Capture11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture11.xnb</Output>
+      <Time>2012-05-23T23:26:03.2863303+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture110.PNG</Source>
+      <Name>earth\Capture110</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture110.xnb</Output>
+      <Time>2012-05-23T23:26:04.2543856+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture111.PNG</Source>
+      <Name>earth\Capture111</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture111.xnb</Output>
+      <Time>2012-05-23T23:26:04.2643862+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture112.PNG</Source>
+      <Name>earth\Capture112</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture112.xnb</Output>
+      <Time>2012-05-23T23:26:04.2713866+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture113.PNG</Source>
+      <Name>earth\Capture113</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture113.xnb</Output>
+      <Time>2012-05-23T23:26:04.2803871+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture114.PNG</Source>
+      <Name>earth\Capture114</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture114.xnb</Output>
+      <Time>2012-05-23T23:26:04.2933879+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture115.PNG</Source>
+      <Name>earth\Capture115</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture115.xnb</Output>
+      <Time>2012-05-23T23:26:04.3063886+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture116.PNG</Source>
+      <Name>earth\Capture116</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture116.xnb</Output>
+      <Time>2012-05-23T23:26:04.3173892+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture117.PNG</Source>
+      <Name>earth\Capture117</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture117.xnb</Output>
+      <Time>2012-05-23T23:26:04.3263897+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture118.PNG</Source>
+      <Name>earth\Capture118</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture118.xnb</Output>
+      <Time>2012-05-23T23:26:04.3343902+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture119.PNG</Source>
+      <Name>earth\Capture119</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture119.xnb</Output>
+      <Time>2012-05-23T23:26:04.3443908+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture12.PNG</Source>
+      <Name>earth\Capture12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture12.xnb</Output>
+      <Time>2012-05-23T23:26:03.2893304+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture120.PNG</Source>
+      <Name>earth\Capture120</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture120.xnb</Output>
+      <Time>2012-05-23T23:26:04.3533913+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture13.PNG</Source>
+      <Name>earth\Capture13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture13.xnb</Output>
+      <Time>2012-05-23T23:26:03.2923306+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture14.PNG</Source>
+      <Name>earth\Capture14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture14.xnb</Output>
+      <Time>2012-05-23T23:26:03.2943307+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture15.PNG</Source>
+      <Name>earth\Capture15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture15.xnb</Output>
+      <Time>2012-05-23T23:26:03.2973309+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture16.PNG</Source>
+      <Name>earth\Capture16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture16.xnb</Output>
+      <Time>2012-05-23T23:26:03.299331+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture17.PNG</Source>
+      <Name>earth\Capture17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture17.xnb</Output>
+      <Time>2012-05-23T23:26:03.3023312+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture18.PNG</Source>
+      <Name>earth\Capture18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture18.xnb</Output>
+      <Time>2012-05-23T23:26:03.3053313+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture19.PNG</Source>
+      <Name>earth\Capture19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture19.xnb</Output>
+      <Time>2012-05-23T23:26:03.3083315+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture2.PNG</Source>
+      <Name>earth\Capture2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture2.xnb</Output>
+      <Time>2012-05-23T23:26:03.2423277+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture20.PNG</Source>
+      <Name>earth\Capture20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture20.xnb</Output>
+      <Time>2012-05-23T23:26:03.438339+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture21.PNG</Source>
+      <Name>earth\Capture21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture21.xnb</Output>
+      <Time>2012-05-23T23:26:03.4463394+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture22.PNG</Source>
+      <Name>earth\Capture22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture22.xnb</Output>
+      <Time>2012-05-23T23:26:03.4533398+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture23.PNG</Source>
+      <Name>earth\Capture23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture23.xnb</Output>
+      <Time>2012-05-23T23:26:03.4593402+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture24.PNG</Source>
+      <Name>earth\Capture24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture24.xnb</Output>
+      <Time>2012-05-23T23:26:03.4663406+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture25.PNG</Source>
+      <Name>earth\Capture25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture25.xnb</Output>
+      <Time>2012-05-23T23:26:03.473341+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture26.PNG</Source>
+      <Name>earth\Capture26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture26.xnb</Output>
+      <Time>2012-05-23T23:26:03.4803414+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture27.PNG</Source>
+      <Name>earth\Capture27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture27.xnb</Output>
+      <Time>2012-05-23T23:26:03.4873418+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture28.PNG</Source>
+      <Name>earth\Capture28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture28.xnb</Output>
+      <Time>2012-05-23T23:26:03.4953422+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture29.PNG</Source>
+      <Name>earth\Capture29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture29.xnb</Output>
+      <Time>2012-05-23T23:26:03.5043427+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture3.PNG</Source>
+      <Name>earth\Capture3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture3.xnb</Output>
+      <Time>2012-05-23T23:26:03.2443279+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture30.PNG</Source>
+      <Name>earth\Capture30</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture30.xnb</Output>
+      <Time>2012-05-23T23:26:03.5533455+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture31.PNG</Source>
+      <Name>earth\Capture31</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture31.xnb</Output>
+      <Time>2012-05-23T23:26:03.5593459+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture32.PNG</Source>
+      <Name>earth\Capture32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture32.xnb</Output>
+      <Time>2012-05-23T23:26:03.5663463+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture33.PNG</Source>
+      <Name>earth\Capture33</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture33.xnb</Output>
+      <Time>2012-05-23T23:26:03.5733467+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture34.PNG</Source>
+      <Name>earth\Capture34</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture34.xnb</Output>
+      <Time>2012-05-23T23:26:03.5803471+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture35.PNG</Source>
+      <Name>earth\Capture35</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture35.xnb</Output>
+      <Time>2012-05-23T23:26:03.5863474+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture36.PNG</Source>
+      <Name>earth\Capture36</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture36.xnb</Output>
+      <Time>2012-05-23T23:26:03.5943479+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture37.PNG</Source>
+      <Name>earth\Capture37</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture37.xnb</Output>
+      <Time>2012-05-23T23:26:03.6003482+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture38.PNG</Source>
+      <Name>earth\Capture38</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture38.xnb</Output>
+      <Time>2012-05-23T23:26:03.6083487+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture39.PNG</Source>
+      <Name>earth\Capture39</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture39.xnb</Output>
+      <Time>2012-05-23T23:26:03.6153491+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture4.PNG</Source>
+      <Name>earth\Capture4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture4.xnb</Output>
+      <Time>2012-05-23T23:26:03.247328+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture40.PNG</Source>
+      <Name>earth\Capture40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture40.xnb</Output>
+      <Time>2012-05-23T23:26:03.6243496+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture41.PNG</Source>
+      <Name>earth\Capture41</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture41.xnb</Output>
+      <Time>2012-05-23T23:26:03.6323501+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture42.PNG</Source>
+      <Name>earth\Capture42</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture42.xnb</Output>
+      <Time>2012-05-23T23:26:03.6403505+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture43.PNG</Source>
+      <Name>earth\Capture43</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture43.xnb</Output>
+      <Time>2012-05-23T23:26:03.648351+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture44.PNG</Source>
+      <Name>earth\Capture44</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture44.xnb</Output>
+      <Time>2012-05-23T23:26:03.6563514+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture45.PNG</Source>
+      <Name>earth\Capture45</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture45.xnb</Output>
+      <Time>2012-05-23T23:26:03.6633518+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture46.PNG</Source>
+      <Name>earth\Capture46</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture46.xnb</Output>
+      <Time>2012-05-23T23:26:03.6703522+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture47.PNG</Source>
+      <Name>earth\Capture47</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture47.xnb</Output>
+      <Time>2012-05-23T23:26:03.6793527+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture48.PNG</Source>
+      <Name>earth\Capture48</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture48.xnb</Output>
+      <Time>2012-05-23T23:26:03.6873532+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture49.PNG</Source>
+      <Name>earth\Capture49</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture49.xnb</Output>
+      <Time>2012-05-23T23:26:03.6963537+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture5.PNG</Source>
+      <Name>earth\Capture5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture5.xnb</Output>
+      <Time>2012-05-23T23:26:03.2503282+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture50.PNG</Source>
+      <Name>earth\Capture50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture50.xnb</Output>
+      <Time>2012-05-23T23:26:03.7043542+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture51.PNG</Source>
+      <Name>earth\Capture51</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture51.xnb</Output>
+      <Time>2012-05-23T23:26:03.7133547+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture52.PNG</Source>
+      <Name>earth\Capture52</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture52.xnb</Output>
+      <Time>2012-05-23T23:26:03.7213551+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture53.PNG</Source>
+      <Name>earth\Capture53</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture53.xnb</Output>
+      <Time>2012-05-23T23:26:03.7283555+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture54.PNG</Source>
+      <Name>earth\Capture54</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture54.xnb</Output>
+      <Time>2012-05-23T23:26:03.7373561+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture55.PNG</Source>
+      <Name>earth\Capture55</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture55.xnb</Output>
+      <Time>2012-05-23T23:26:03.7453565+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture56.PNG</Source>
+      <Name>earth\Capture56</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture56.xnb</Output>
+      <Time>2012-05-23T23:26:03.753357+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture57.PNG</Source>
+      <Name>earth\Capture57</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture57.xnb</Output>
+      <Time>2012-05-23T23:26:03.7603574+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture58.PNG</Source>
+      <Name>earth\Capture58</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture58.xnb</Output>
+      <Time>2012-05-23T23:26:03.7693579+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture59.PNG</Source>
+      <Name>earth\Capture59</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture59.xnb</Output>
+      <Time>2012-05-23T23:26:03.8023598+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture6.PNG</Source>
+      <Name>earth\Capture6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture6.xnb</Output>
+      <Time>2012-05-23T23:26:03.2543284+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture60.PNG</Source>
+      <Name>earth\Capture60</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture60.xnb</Output>
+      <Time>2012-05-23T23:26:03.8093602+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture61.PNG</Source>
+      <Name>earth\Capture61</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture61.xnb</Output>
+      <Time>2012-05-23T23:26:03.8183607+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture62.PNG</Source>
+      <Name>earth\Capture62</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture62.xnb</Output>
+      <Time>2012-05-23T23:26:03.8263611+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture63.PNG</Source>
+      <Name>earth\Capture63</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture63.xnb</Output>
+      <Time>2012-05-23T23:26:03.8333615+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture64.PNG</Source>
+      <Name>earth\Capture64</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture64.xnb</Output>
+      <Time>2012-05-23T23:26:03.8423621+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture65.PNG</Source>
+      <Name>earth\Capture65</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture65.xnb</Output>
+      <Time>2012-05-23T23:26:03.8503625+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture66.PNG</Source>
+      <Name>earth\Capture66</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture66.xnb</Output>
+      <Time>2012-05-23T23:26:03.859363+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture67.PNG</Source>
+      <Name>earth\Capture67</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture67.xnb</Output>
+      <Time>2012-05-23T23:26:03.8683636+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture68.PNG</Source>
+      <Name>earth\Capture68</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture68.xnb</Output>
+      <Time>2012-05-23T23:26:03.8783641+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture69.PNG</Source>
+      <Name>earth\Capture69</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture69.xnb</Output>
+      <Time>2012-05-23T23:26:03.8883647+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture7.PNG</Source>
+      <Name>earth\Capture7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture7.xnb</Output>
+      <Time>2012-05-23T23:26:03.2573286+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture70.PNG</Source>
+      <Name>earth\Capture70</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture70.xnb</Output>
+      <Time>2012-05-23T23:26:03.8963652+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture71.PNG</Source>
+      <Name>earth\Capture71</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture71.xnb</Output>
+      <Time>2012-05-23T23:26:03.9033656+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture72.PNG</Source>
+      <Name>earth\Capture72</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture72.xnb</Output>
+      <Time>2012-05-23T23:26:03.911366+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture73.PNG</Source>
+      <Name>earth\Capture73</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture73.xnb</Output>
+      <Time>2012-05-23T23:26:03.9193665+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture74.PNG</Source>
+      <Name>earth\Capture74</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture74.xnb</Output>
+      <Time>2012-05-23T23:26:03.928367+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture75.PNG</Source>
+      <Name>earth\Capture75</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture75.xnb</Output>
+      <Time>2012-05-23T23:26:03.9393676+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture76.PNG</Source>
+      <Name>earth\Capture76</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture76.xnb</Output>
+      <Time>2012-05-23T23:26:03.9483681+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture77.PNG</Source>
+      <Name>earth\Capture77</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture77.xnb</Output>
+      <Time>2012-05-23T23:26:03.9693693+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture78.PNG</Source>
+      <Name>earth\Capture78</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture78.xnb</Output>
+      <Time>2012-05-23T23:26:03.9793699+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture79.PNG</Source>
+      <Name>earth\Capture79</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture79.xnb</Output>
+      <Time>2012-05-23T23:26:03.9893705+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture8.PNG</Source>
+      <Name>earth\Capture8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture8.xnb</Output>
+      <Time>2012-05-23T23:26:03.2603288+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture80.PNG</Source>
+      <Name>earth\Capture80</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture80.xnb</Output>
+      <Time>2012-05-23T23:26:03.9963709+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture81.PNG</Source>
+      <Name>earth\Capture81</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture81.xnb</Output>
+      <Time>2012-05-23T23:26:04.0033713+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture82.PNG</Source>
+      <Name>earth\Capture82</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture82.xnb</Output>
+      <Time>2012-05-23T23:26:04.0103717+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture83.PNG</Source>
+      <Name>earth\Capture83</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture83.xnb</Output>
+      <Time>2012-05-23T23:26:04.0203722+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture84.PNG</Source>
+      <Name>earth\Capture84</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture84.xnb</Output>
+      <Time>2012-05-23T23:26:04.0283727+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture85.PNG</Source>
+      <Name>earth\Capture85</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture85.xnb</Output>
+      <Time>2012-05-23T23:26:04.0373732+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture86.PNG</Source>
+      <Name>earth\Capture86</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture86.xnb</Output>
+      <Time>2012-05-23T23:26:04.0483738+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture87.PNG</Source>
+      <Name>earth\Capture87</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture87.xnb</Output>
+      <Time>2012-05-23T23:26:04.0583744+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture88.PNG</Source>
+      <Name>earth\Capture88</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture88.xnb</Output>
+      <Time>2012-05-23T23:26:04.0653748+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture89.PNG</Source>
+      <Name>earth\Capture89</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture89.xnb</Output>
+      <Time>2012-05-23T23:26:04.0733753+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture9.PNG</Source>
+      <Name>earth\Capture9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture9.xnb</Output>
+      <Time>2012-05-23T23:26:03.2633289+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture90.PNG</Source>
+      <Name>earth\Capture90</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture90.xnb</Output>
+      <Time>2012-05-23T23:26:04.0813757+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture91.PNG</Source>
+      <Name>earth\Capture91</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture91.xnb</Output>
+      <Time>2012-05-23T23:26:04.0903762+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture92.PNG</Source>
+      <Name>earth\Capture92</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture92.xnb</Output>
+      <Time>2012-05-23T23:26:04.0983767+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture93.PNG</Source>
+      <Name>earth\Capture93</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture93.xnb</Output>
+      <Time>2012-05-23T23:26:04.1063772+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture94.PNG</Source>
+      <Name>earth\Capture94</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture94.xnb</Output>
+      <Time>2012-05-23T23:26:04.1143776+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture95.PNG</Source>
+      <Name>earth\Capture95</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture95.xnb</Output>
+      <Time>2012-05-23T23:26:04.121378+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture96.PNG</Source>
+      <Name>earth\Capture96</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture96.xnb</Output>
+      <Time>2012-05-23T23:26:04.1293785+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture97.PNG</Source>
+      <Name>earth\Capture97</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture97.xnb</Output>
+      <Time>2012-05-23T23:26:04.138379+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture98.PNG</Source>
+      <Name>earth\Capture98</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture98.xnb</Output>
+      <Time>2012-05-23T23:26:04.1463795+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth\Capture99.PNG</Source>
+      <Name>earth\Capture99</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\earth\Capture99.xnb</Output>
+      <Time>2012-05-23T23:26:04.15538+05:30</Time>
+    </Item>
+    <Item>
+      <Source>missile.png</Source>
+      <Name>missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\missile.xnb</Output>
+      <Time>2012-05-24T12:40:17.5963503+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{65C83C4D-4AA3-4277-931E-304BDEF6804D}</ContentProjectGUID>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceshipContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Virux\Desktop\xna\spaceship\spaceship\spaceship\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-04T23:01:48.2641719+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
